@@ -74,7 +74,7 @@ __Boy Scouts of America__, Bend, OR
 - Orchestrated the completion of a city project and directed over 100 individuals, in which we built 24 raised garden beds for a community 
 - Developed many soft skills such as time management, communication, leadership, and interpersonal skills
 
-### Additional Skills
+## Additional Skills
 
 - Microsoft Excel, Microsoft Word, Power BI, Tableau, SQL, QuickBooks
 - Fluent in Spanish; reading, writing, and speaking
